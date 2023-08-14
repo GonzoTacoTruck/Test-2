@@ -157,15 +157,16 @@
       "confName": "B10",
       "confTeams": [
         {
-          "name": "Illinois",
-          "state": "Illinois",
-          "abbreviation": "ILLI",
+          "name": "USC",
+          "state": "Califorina",
+          "abbreviation": "USC",
           "rival": [
-            "NU"
+            "UCLA"
           ],
-          "rivalryNames": {},
-          "prestige": "79",
-          "hexColor": "#13294B"
+          "rivalryNames": { "UCLA": "The Battle of L.A."
+          },
+          "prestige": "99",
+          "hexColor": "#990000"
         },
         {
           "name": "Indiana",
@@ -218,15 +219,16 @@
           "hexColor": "#7A0019"
         },
         {
-          "name": "Northwestern",
-          "state": "Illinois",
-          "abbreviation": "NU",
+          "name": "UCLA",
+          "state": "Califorina",
+          "abbreviation": "UCLA",
           "rival": [
-            "ILLI"
+            "USC"
           ],
-          "rivalryNames": {},
-          "prestige": "75",
-          "hexColor": "#4E2A84"
+          "rivalryNames": {"USC":"The Battle of L.A."
+          },
+          "prestige": "90",
+          "hexColor": "#2D68C4"
         },
         {
           "name": "Ohio State",
@@ -579,17 +581,17 @@
           "hexColor": "#8C1515"
         },
         {
-          "name": "UCLA",
-          "state": "California",
-          "abbreviation": "UCLA",
+          "name": "Northwestern",
+          "state": "Illinois",
+          "abbreviation": "NU",
           "rival": [
-            "USC"
+            "ILLI"
           ],
           "rivalryNames": {
-            "USC": "The Battle of L.A."
+            "ILLI": "For the Land of Lincoln"
           },
-          "prestige": "90",
-          "hexColor": "#2D68C4"
+          "prestige": "78",
+          "hexColor": "#4E2A84"
         },
         {
           "name": "Utah",
@@ -605,17 +607,17 @@
           "hexColor": "#CC0000"
         },
         {
-          "name": "USC",
-          "state": "California",
-          "abbreviation": "USC",
+          "name": "Illinois",
+          "state": "Illinois",
+          "abbreviation": "NU",
           "rival": [
-            "UCLA"
+            "NU"
           ],
           "rivalryNames": {
-            "UCLA": "The Battle of L.A."
+            "NU": "For the Land of Lincoln"
           },
-          "prestige": "98",
-          "hexColor": "#990000"
+          "prestige": "79",
+          "hexColor": "#13294B"
         },
         {
           "name": "Washington",
